@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guide Tour</string>
+    <string name="Name">Name</string>
+    <string name="City">City</string>
+    <string name="Adress">Address</string>
+    <string name="Phone_num">0000-0000</string>
+    <string name="todo">TODO</string>
+    <string name="Close">CLOSE</string>
+    <string name="Mail">example@gmail.com</string>
+    <string name="Galeria">Gallery</string>
+    <string name="SearchHint">Search</string>
+</resources>
